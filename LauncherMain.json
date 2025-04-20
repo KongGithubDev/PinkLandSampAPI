@@ -1,7 +1,7 @@
 {
   "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.2",
+  "Version": "1.0",
   "gamesizeOriginal": "-",
   "gamesizeOriginalFix": "-",
   "gamesizeENBLow": "-",
@@ -12,7 +12,7 @@
   "LUAC": "999",
   "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://191.96.92.98/crlauncher/CareerLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://191.96.92.98/crlauncher/CareerUpdateFileReplace.tmp",
+  "UpdateWithLink": "http://191.96.92.109/crlauncher/PinkLandLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://191.96.92.109/crlauncher/PinkLandUpdateFileReplace.tmp",
   "PIC": "https://img2.imgbiz.com/imgbiz/Songkran-CBKP1.01.1.png"
 }
